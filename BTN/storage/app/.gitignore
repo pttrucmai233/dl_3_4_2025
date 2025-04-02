@@ -1,0 +1,7 @@
+*
+<<<<<<< HEAD
+=======
+!private/
+>>>>>>> 1225555 (Thông tin phòng)
+!public/
+!.gitignore

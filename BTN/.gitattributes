@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+* text=auto
+=======
+* text=auto eol=lf
+>>>>>>> 1225555 (Thông tin phòng)
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+<<<<<<< HEAD
+=======
+.styleci.yml export-ignore
+>>>>>>> 1225555 (Thông tin phòng)
